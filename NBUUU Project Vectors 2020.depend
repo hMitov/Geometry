@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1591280932 source:d:\c++\nbuuu project vectors 2020\main.cpp
+	<iostream>
+	"Vectors.h"
+	"Vectors.cpp"
+	<cstring>
+	<cmath>
+	<fstream>
+
+1591576773 d:\c++\nbuuu project vectors 2020\vectors.h
+	<exception>
+	<cstring>
+
+1591576773 d:\c++\nbuuu project vectors 2020\vectors.cpp
+	<iostream>
+	"Vectors.h"
+	<cstring>
+	<cmath>
+	<exception>
+	<fstream>
+	<iomanip>
+
